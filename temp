@@ -1,0 +1,6 @@
+settings下
+<!--本地仓库-->
+  <localRepository>G:\MavenRepository</localRepository>
+  
+catelog files :http://repo1.maven.org/maven2/archetype-catalog.xml
+descript:随便写
